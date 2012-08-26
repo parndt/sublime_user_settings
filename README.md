@@ -2,7 +2,7 @@
 
 ## Clone the repo
 
-This repo is setup to replace your "User" package, if you want it to live elsewhere just change the clone desintation HELLO
+This repo is setup to replace your "User" package, if you want it to live elsewhere just change the clone destination.
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     mv User User_original
@@ -115,7 +115,7 @@ Editing
   <tr><td>**⌘ /**       </td><td>comment</td></tr>
   <tr><td>**⌘⌥ /**      </td><td>block comment</td></tr>
   <tr><td>**⌘Y**        </td><td>redo or repeat</td></tr>
-  <tr><td>**⌘⇧V**       </td><td>past and ident</td></tr>
+  <tr><td>**⌘⇧V**       </td><td>paste and ident</td></tr>
   <tr><td>**⌃ space**   </td><td>autocomplete (repeat to select next suggestion)</td></tr>
   <tr><td>**⌃M**        </td><td>jump to matching brackets</td></tr>
   <tr><td>**⌘U**        </td><td>soft undo (movement undo)</td></tr>
